@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2015 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="facebook" unicode="&#xe800;" d="m535 843v-147h-87q-48 0-65-20t-17-60v-106h164l-22-165h-142v-424h-171v424h-142v165h142v122q0 104 58 161t155 57q82 0 127-7z" horiz-adv-x="571.4" />
+<glyph glyph-name="mail-alt" unicode="&#xe801;" d="m1000 454v-443q0-37-26-63t-63-27h-822q-36 0-63 27t-26 63v443q25-28 56-49 202-137 278-192 32-24 51-37t53-27 61-13h2q28 0 61 13t53 27 51 37q95 68 278 192 32 22 56 49z m0 164q0-44-27-84t-68-69q-210-146-262-181-5-4-23-17t-30-22-29-18-33-15-27-5h-2q-12 0-27 5t-33 15-29 18-30 22-23 17q-51 35-147 101t-114 80q-35 23-65 64t-31 77q0 43 23 72t66 29h822q36 0 62-26t27-63z" horiz-adv-x="1000" />
+<glyph glyph-name="camera" unicode="&#xe802;" d="m536 475q66 0 113-47t47-114-47-113-113-47-114 47-47 113 47 114 114 47z m393 232q59 0 101-42t41-101v-500q0-59-41-101t-101-42h-786q-59 0-101 42t-42 101v500q0 59 42 101t101 42h125l28 76q11 27 39 47t58 20h286q29 0 57-20t39-47l29-76h125z m-393-643q103 0 176 74t74 176-74 177-176 73-177-73-73-177 73-176 177-74z" horiz-adv-x="1071.4" />
+</font>
+</defs>
+</svg>

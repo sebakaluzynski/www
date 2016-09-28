@@ -105,7 +105,10 @@
 	<div class="container">
 		<div class="rectangle">
 			<div class="portfolio">PORTFOLIO</div>
-			<div class="logo">NATALIA SOLNICA</div>
+			<div class="logo">
+				<div class="logoname">NATALIA SOLNICA</div>
+				<div class="sublogo">FOTOGRAFIA</div>
+			</div>
 			<div class="contact">KONTAKT</div>
 			<div style="clear: both;"></div>	
 		</div>

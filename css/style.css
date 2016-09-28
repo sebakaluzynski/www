@@ -13,32 +13,43 @@ body
 .rectangle
 {
 	width:1200px;
-	height: 80px;
+	height: 90px;
 	text-align: center;
 	font-family: 'Josefin Sans', sans-serif;
-
+	
 }
 
 .logo
 {
-	width: 550px;
-	font-size: 60px;
+	width: 450px;
 	float:left;
 }
 
+.logoname
+{
+	font-size: 50px;
+	border-bottom: 1px solid;
+}
+
+.sublogo
+{
+	font-size: 26px;
+	
+}
+
 .contact{
-	width: 175px;
-	font-size: 20px;
+	width: 225px;
+	font-size: 26px;
 	float:left;
-	margin-top: 20px;
+	margin-top: 32px;
 	padding-right:150px;
 }
 
 .portfolio{
-    width: 175px;
+    width: 225px;
 	float:left;
-	font-size: 20px;
-	margin-top: 20px;
+	font-size: 26px;
+	margin-top: 32px;
 	padding-left: 150px;
 	
 }
